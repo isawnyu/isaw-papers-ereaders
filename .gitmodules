@@ -1,0 +1,3 @@
+[submodule "isaw-papers"]
+	path = isaw-papers
+	url = https://github.com/FMezard/isaw-papers
