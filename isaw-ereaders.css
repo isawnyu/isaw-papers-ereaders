@@ -158,6 +158,13 @@ a {
     text-decoration:none;
 }
 
+a > i {
+    border-bottom:thin dotted gray;
+    color:black;
+    text-decoration:none;
+
+}
+
 
 sup {
     line-height:0;
