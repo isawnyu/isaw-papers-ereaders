@@ -7,17 +7,18 @@
   text-indent:-.25in
   }
 
-.abstract {
+.abstract { /* changed the margin */
 
   text-indent:0;
-  margin-left:3em;
-  margin-right:3em;
+  margin-left:1em;
+  margin-right:1em;
   margin-top:2em;
  }
 
-body {
+
+body { /*changes the margin */
  margin:auto;
- width:70%;
+ width:98%;
 }
 
 .edition-line {
@@ -75,11 +76,6 @@ header {
  margin-top: 2em;
  margin-bottom:1em;
 }
-
-header > h3 {
- text-align: center;
- }
-
 
 
 .keywords,#keywords {
@@ -184,7 +180,7 @@ table caption {
 margin-top:1em;
 }
 
-figure {
+div {
  page-break-inside: avoid;
  margin-left: auto;
  margin-right: auto
@@ -228,5 +224,21 @@ img.img-wide {
  color:gray;
  }
     
-     
+/* for pandoc use only */
 
+.unnumbered {
+  text-align: center;
+  font-size:1.5em;
+}
+     
+.level1 > div {
+  text-align: center;
+  padding: 10px; 
+}
+
+p > a[href*="http://doi.org"]{
+  display: block;
+  text-align: center;
+  margin: 10px;
+  border-bottom: none; 
+}
