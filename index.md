@@ -55,3 +55,5 @@ Unless otherwise noted all content is distributed under a Creative Commons Atrib
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/browser-epub-12.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-12.epub">Download the ePub</a>
 
+I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
+
