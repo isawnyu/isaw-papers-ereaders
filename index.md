@@ -9,7 +9,7 @@ Unless otherwise noted all content is distributed under a Creative Commons Atrib
 ## ISAW Papers 1
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/1/browser-epub-1.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/1/isaw-papers-1.epub">Download the ePub</a>
-<a href="https://isawnyu.github.io/isaw-papers-ereaders/1/isaw-papers-4.mobi">Download the mobi</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/1/isaw-papers-1.mobi">Download the mobi</a>
 
 
 ## ISAW Papers 2
