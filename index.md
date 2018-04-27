@@ -2,7 +2,7 @@
 
 Here is an early experiment for the creation of ePub generated from the open content scholarly Journal *ISAW Papers*. You can have a look at the ePubs online or download them on your computer. Do not hesitate to tell us what you think would be useful to make our work better.
 
-I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
+This journal is accessible online here : <a href="http://isaw.nyu.edu/publications/isaw-papers">http://isaw.nyu.edu/publications/isaw-papers</a>.
 
 Unless otherwise noted all content is distributed under a Creative Commons Atribution license. See <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>.
 
@@ -54,4 +54,6 @@ Unless otherwise noted all content is distributed under a Creative Commons Atrib
 ## ISAW Papers 12
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/browser-epub-12.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-12.epub">Download the ePub</a>
+
+I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
 
