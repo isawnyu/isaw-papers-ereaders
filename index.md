@@ -9,51 +9,66 @@ Unless otherwise noted all content is distributed under a Creative Commons Atrib
 ## ISAW Papers 1
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/1/browser-epub-1.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/1/isaw-papers-1.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/1/isaw-papers-4.mobi">Download the mobi</a>
 
 
 ## ISAW Papers 2
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/2/browser-epub-2.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/2/isaw-papers-2.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/2/isaw-papers-2.mobi">Download the mobi</a>
 
 ## ISAW Papers 3
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/3/browser-epub-3.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/3/isaw-papers-3.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/3/isaw-papers-3.mobi">Download the mobi</a>
+
 
 ## ISAW Papers 4
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/4/browser-epub-4.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/4/isaw-papers-4.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/4/isaw-papers-4.mobi">Download the mobi</a>
 
 ## ISAW Papers 5
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/5/browser-epub-5.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/5/isaw-papers-5.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/5/isaw-papers-5.mobi">Download the mobi</a>
+
 
 ## ISAW Papers 6
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/6/browser-epub-6.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/6/isaw-papers-6.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/6/isaw-papers-6.mobi">Download the mobi</a>
+
 
 ## ISAW Papers 7
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/7/browser-epub-7.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/7/isaw-papers-7.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/7/isaw-papers-7.mobi">Download the mobi</a>
 
 ## ISAW Papers 8
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/8/browser-epub-8.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/8/isaw-papers-8.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/8/isaw-papers-8.mobi">Download the mobi</a>
 
 ## ISAW Papers 9
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/9/browser-epub-9.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/9/isaw-papers-9.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/9/isaw-papers-9.mobi">Download the mobi</a>
 
 ## ISAW Papers 10
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/10/browser-epub-10.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/10/isaw-papers-10.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/10/isaw-papers-10.mobi">Download the mobi</a>
 
 ## ISAW Papers 11
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/11/browser-epub-11.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/11/isaw-papers-11.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/11/isaw-papers-11.mobi">Download the mobi</a>
 
 ## ISAW Papers 12
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/browser-epub-12.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-12.epub">Download the ePub</a>
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-12.mobi">Download the mobi</a>
 
 I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
 
