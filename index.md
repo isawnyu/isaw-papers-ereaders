@@ -2,6 +2,8 @@
 
 Here is an early experiment for the creation of ePub generated from the open content scholarly Journal *ISAW Papers*. You can have a look at the ePubs online or download them on your computer. Do not hesitate to tell us what you think would be useful to make our work better.
 
+This journal is accessible online here : <a href="http://isaw.nyu.edu/publications/isaw-papers">http://isaw.nyu.edu/publications/isaw-papers</a>.
+
 Unless otherwise noted all content is distributed under a Creative Commons Atribution license. See <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>.
 
 ## ISAW Papers 1
