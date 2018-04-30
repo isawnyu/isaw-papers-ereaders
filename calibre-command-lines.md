@@ -20,3 +20,4 @@ for i in 8 9; do
     ebook-convert $i/isaw-papers-$i-ereaders.xhtml $i/isaw-papers-$i.epub --cover cover.png --preserve-cover-aspect-ratio 
     ebook-convert $i/isaw-papers-$i.epub $i/isaw-papers-$i.mobi  --no-inline-toc
 done
+```
