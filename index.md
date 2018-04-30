@@ -71,9 +71,9 @@ Unless otherwise noted all content is distributed under a Creative Commons Atrib
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-12.mobi">Download the mobi</a>
 
 ## ISAW Papers 13
-<a href="https://isawnyu.github.io/isaw-papers-ereaders/12/browser-epub-13.html">View Online</a>    
-<a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-13.epub">Download the ePub</a>  
-<a href="https://isawnyu.github.io/isaw-papers-ereaders/12/isaw-papers-13.mobi">Download the mobi</a>  
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/13/browser-epub-13.html">View Online</a>    
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/13/isaw-papers-13.epub">Download the ePub</a>  
+<a href="https://isawnyu.github.io/isaw-papers-ereaders/13/isaw-papers-13.mobi">Download the mobi</a>  
 
 I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
 
