@@ -1,6 +1,6 @@
 # ISAW Papers Articles for E-Readers
 
-This page is a preliminary presentation of ePub and Mobi files generated from the open-content scholarly Journal *ISAW Papers*. The articles can be read online or downloaded to a computer or tablet.
+This page is a preliminary presentation of ePub and Mobi files generated from the open-content journal *ISAW Papers*. The articles can be read online or downloaded to a computer or tablet.
 
 The journal is accessible online here : <a href="http://isaw.nyu.edu/publications/isaw-papers">http://isaw.nyu.edu/publications/isaw-papers</a>.
 
@@ -102,5 +102,5 @@ Daniel Hoyer. (2018). An Overview of the numismatic evidence from imperial Roman
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/13/isaw-papers-13.epub">Download the ePub</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/13/isaw-papers-13.mobi">Download the mobi</a>   
 
-I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
+The ePubs and Mobi were created using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
 
