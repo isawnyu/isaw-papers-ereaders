@@ -1,10 +1,12 @@
-# ISAW Papers - ePubs
+# ISAW Papers Articles for E-Readers
 
-Here is an early experiment for the creation of ePub generated from the open content scholarly Journal *ISAW Papers*. You can have a look at the ePubs online or download them on your computer. Do not hesitate to tell us what you think would be useful to make our work better.
+This page is a preliminary presentation of ePub and Mobi files generated from the open-content journal *ISAW Papers*. The articles can be read online or downloaded to a computer or tablet.
 
-This journal is accessible online here : <a href="http://isaw.nyu.edu/publications/isaw-papers">http://isaw.nyu.edu/publications/isaw-papers</a>.
+The journal is accessible online here : <a href="http://isaw.nyu.edu/publications/isaw-papers">http://isaw.nyu.edu/publications/isaw-papers</a>.
 
 Unless otherwise noted all content is distributed under a Creative Commons Atribution license. See <a href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</a>.
+
+Feedback can be left by open an issue on the <ahref="https://github.com/isawnyu/isaw-papers-ereaders/">GitHub repository</a> that hosts this content.
 
 ## ISAW Papers 1 
 
@@ -75,7 +77,7 @@ Paola Davoli and Christian Miks. (2015). A New “Roman” Sword from Soknopaiou
 
 ## ISAW Papers 10
 
-Sebastian Heath, J.L. Rife, Jorge J. Bravo III, and Gavin Blasdel. (2015). Preliminary Report on Early Byzantine Pottery from a Building Complex at Kenchreai (Greece). ISAW Papers, 10.  
+Sebastian Heath, Joseph L. Rife, Jorge J. Bravo III, and Gavin Blasdel. (2015). Preliminary Report on Early Byzantine Pottery from a Building Complex at Kenchreai (Greece). ISAW Papers, 10.  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/10/browser-epub-10.html">View Online</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/10/isaw-papers-10.epub">Download the ePub</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/10/isaw-papers-10.mobi">Download the mobi</a>
@@ -100,5 +102,5 @@ Daniel Hoyer. (2018). An Overview of the numismatic evidence from imperial Roman
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/13/isaw-papers-13.epub">Download the ePub</a>  
 <a href="https://isawnyu.github.io/isaw-papers-ereaders/13/isaw-papers-13.mobi">Download the mobi</a>   
 
-I generated those ePubs using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
+The ePubs and Mobi were created using the command line interface of <a href="https://calibre-ebook.com/">Calibre</a>.
 
