@@ -1,4 +1,4 @@
-for i in 8 9; do
+for i in `seq 1 13`; do
     for j in $i/images/*.png; do
         printf "Resize $i\n"
         convert "$j" -resize 640x480 "$j"
